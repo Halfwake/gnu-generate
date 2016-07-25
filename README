@@ -1,0 +1,7 @@
+The gnu-generate library allows you to write code that writes code that's free software. Now that's metaprogramming! If we constantly run gnu-generate on existing free software, eventually all uncreated software will be free.
+
+Join us now and share the software. You'll be free hackers. You'll be free.
+
+TODO
+- Use GPL'd code for example instead of some code from an exploitation blog post.
+- Add support for uploading to github.
